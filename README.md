@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🎯 I’m currently studying at 1337 School 👩🏻‍💻
 -  👩🏻‍🏫A Bachelor degree in Applied Mathematics
-- I’m currently learning JAVA</br>
+- I’m currently learning C++ </br> 
 - Ask me about C, SQL</br>
 - How to reach me: zainabdnaya@gmail.com</br>
 - Fun fact: coding is lifestyle.</br>

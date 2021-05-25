@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+  ![](https://komarev.com/ghpvc/?username=zainabdnaya)
 - 🎯 I’m currently studying at 1337 School 👩🏻‍💻
 -  👩🏻‍🏫A Bachelor degree in Applied Mathematics
 - I’m currently learning C++ </br> 

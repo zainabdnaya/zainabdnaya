@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 
 <img src ="https://github-readme-stats.vercel.app/api?username=zainabdnaya&show_icons=true&theme=merko"/>
 <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&white=true&login=zdnaya"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabdnaya"/>

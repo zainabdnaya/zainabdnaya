@@ -13,5 +13,15 @@ Here are some ideas to get you started:
 - How to reach me: zainabdnaya@gmail.com</br>
 - Fun fact: coding is lifestyle.</br>
 
-<img src ="https://github-readme-stats.vercel.app/api?username=zainabdnaya&show_icons=true&theme=merko"/>
-<img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&white=true&login=zdnaya"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabdnaya"/>
+<a href="https://github.com/zainabdnaya?tab=repositories">
+
+<img align= "center" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=zdnaya"/> 
+
+</a>
+<a href="https://github.com/zainabdnaya?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=zainabdnaya&line_height=38.9&show_icons=true&theme=algolia">
+</a>
+
+
+  <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabdnaya&theme=algolia"/>
+

@@ -1,12 +1,12 @@
 
 
-<h1> Hi ! I'm zainab Dnaya  👋</hi>
+<h1> Hi ! I'm zainab Dnaya  👋</h1>
 
 <!--
 **zainabdnaya/zainabdnaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
+<!-- ## Here are some ideas to get you started:
+ -->
   ![](https://komarev.com/ghpvc/?username=zainabdnaya)
 - 🎯 I’m currently studying at 1337 School 👩🏻‍💻
 -  👩🏻‍🏫A Bachelor degree in Applied Mathematics

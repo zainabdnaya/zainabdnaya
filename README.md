@@ -10,8 +10,7 @@
   ![](https://komarev.com/ghpvc/?username=zainabdnaya)
 - 🎯 I’m currently studying at 1337 School 👩🏻‍💻
 -  👩🏻‍🏫A Bachelor degree in Applied Mathematics
-- I’m currently learning C++ </br> 
-- Ask me about C, SQL</br>
+- Ask me about C, C++, SQL, Js </br>
 - How to reach me: zainabdnaya@gmail.com</br>
 - Fun fact: coding is lifestyle.</br>
 

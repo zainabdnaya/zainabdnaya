@@ -16,13 +16,14 @@
 
 
 <!-- <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=zdnaya"/>  -->
-
-<a href="https://github.com/zainabdnaya?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=zainabdnaya&line_height=40&show_icons=true&theme=algolia">
-</a>
+<!--  -->
 <!-- 
 <a href="https://github.com/zainabdnaya?tab=repositories">
 
   <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabdnaya&theme=algolia"/>
 
+<img src="" style="max-width: 100%;"/>
 </a> -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="zdnaya Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zainabdnaya&bg_color=000000&color=AEFEFF&line=A7D0CD&point=AEFEFF&hide_border=true" data-canonical-src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zainabdnaya&bg_color=000000&color=AEFEFF&line=B85252&point=AEFEFF&hide_border=true" style="max-width: 100%;"></a>
+

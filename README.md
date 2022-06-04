@@ -15,14 +15,10 @@
 - How to reach me: zainabdnaya@gmail.com</br>
 - Fun fact: coding is lifestyle.</br>
 
-
 # Github Status 
 
-<a>
-      <img  align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabdnaya&layout=compact">
-    <img align= "center" src="https://github-readme-stats.vercel.app/api?username=zainabdnaya&show_icons=true&theme=dark">
-
-</a>
+<a><img  align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabdnaya&layout=compact">
+ <img align= "center" src="https://github-readme-stats.vercel.app/api?username=zainabdnaya&show_icons=true&theme=dark"></a>
 
 
 

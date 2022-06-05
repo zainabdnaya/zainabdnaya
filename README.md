@@ -1,6 +1,9 @@
 
 
-<h1> Hi ! I'm zainab Dnaya  👋</h1>
+<h1> Hi ! I'm zainab Dnaya </h1>
+<!-- <h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
+  </h2> -->
 
 <img width="80%" href="https://www.coolgenerator.com/Data/Textdesign/202204/0db79c425e935135deb51b995d2ba74a.png" style="max-width: 100%;">
 <!--

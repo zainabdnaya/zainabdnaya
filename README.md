@@ -17,8 +17,7 @@
 
 # Github Status 
 
-<a><img  align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabdnaya&layout=compact&theme=dark">
- <img align= "center" src="https://github-readme-stats.vercel.app/api?username=zainabdnaya&show_icons=true&theme=dark"></a>
+<a><img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabdnaya&layout=compact&theme=dark"> <img align= "center" src="https://github-readme-stats.vercel.app/api?username=zainabdnaya&show_icons=true&theme=dark"></a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="zdnaya Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zainabdnaya&theme=default&hide_border=true" data-canonical-src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zainabdnaya&bg_color=000000&color=AEFEFF&line=B85252&point=AEFEFF&hide_border=true" style="max-width: 100%;"></a>
 

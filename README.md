@@ -1,9 +1,11 @@
 
-
-<h1> Hi ! I'm zainab Dnaya </h1>
 <!-- <h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
   </h2> -->
+  <h3 align="center"> Welcome to Zainab Dnaya's Profile  </h3>
+  <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=First,%20solve%20the%20problem.;Second+%20Then,%20write%20the%20code.&font=Fira%20Code&center=true&width=380&height=50" 
+       style="max-width: 100%;">
+
 
 <img width="80%" href="https://www.coolgenerator.com/Data/Textdesign/202204/0db79c425e935135deb51b995d2ba74a.png" style="max-width: 100%;">
 <!--
@@ -19,9 +21,10 @@
 - Fun fact: coding is lifestyle.</br>
 
 # Github Status 
-<!-- <img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabdnaya&layout=compact&theme=dark"> -->
-<a> <img align= "center" src="https://github-readme-stats.vercel.app/api?username=zainabdnaya&show_icons=true&theme=dark"></a>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="zdnaya Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zainabdnaya&theme=default&hide_border=true" data-canonical-src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zainabdnaya&bg_color=000000&color=AEFEFF&line=B85252&point=AEFEFF&hide_border=true" style="max-width: 100%;"></a>
+<a> <img align= "center" src="https://github-readme-stats.vercel.app/api?username=zainabdnaya&show_icons=true&theme=highcontrast&hide_border=true"></a>
+<a href="https://github.com/zainabdnaya/github-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabdnaya&amp;include_all_commits=true&amp;count_private=true&amp;hide=tex,Rich%20Text%20Format&amp;langs_count=10&amp;layout=compact&amp;bg_color=00000000&amp;text_color=2B65CF&amp;icon_color=2B65CF&amp;title_color=2B65CF&amp;hide_border=true" style="max-width: 100%;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainabdnaya&theme=highcontrast&hide_border=true">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="zdnaya Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zainabdnaya&theme=default&hide_border=true" data-canonical-src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zainabdnaya&bg_color=000000&color=AEFEFF&line=B85252&point=AEFEFF&hide_border=true" style="max-width: 100%;"></a>
 
 

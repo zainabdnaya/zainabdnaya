@@ -25,6 +25,6 @@
 <a href="https://github.com/zainabdnaya/github-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabdnaya&amp;include_all_commits=true&amp;count_private=true&amp;hide=tex,Rich%20Text%20Format&amp;langs_count=10&amp;layout=compact&amp;bg_color=00000000&amp;text_color=2B65CF&amp;icon_color=2B65CF&amp;title_color=2B65CF&amp;hide_border=true" style="max-width: 100%;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainabdnaya&theme=highcontrast&hide_border=true">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="zdnaya Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zainabdnaya&theme=default&hide_border=true" data-canonical-src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zainabdnaya&bg_color=000000&color=AEFEFF&line=B85252&point=AEFEFF&hide_border=true" style="max-width: 100%;"></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="zdnaya Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zainabdnaya&theme=react-dark&hide_border=true" data-canonical-src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zainabdnaya&bg_color=000000&color=AEFEFF&line=B85252&point=AEFEFF&hide_border=true" style="max-width: 100%;"></a>
 
 

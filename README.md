@@ -7,13 +7,13 @@
        style="max-width: 100%;">
 
 
-<img width="80%" href="https://www.coolgenerator.com/Data/Textdesign/202204/0db79c425e935135deb51b995d2ba74a.png" style="max-width: 100%;">
+<!-- <img width="80%" href="https://www.coolgenerator.com/Data/Textdesign/202204/0db79c425e935135deb51b995d2ba74a.png" style="max-width: 100%;"> -->
 <!--
 **zainabdnaya/zainabdnaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- ## Here are some ideas to get you started:
  -->
-  ![](https://komarev.com/ghpvc/?username=zainabdnaya)
+<!--   ![](https://komarev.com/ghpzvc/?username=zainabdnaya) -->
 - 🎯 I’m currently studying at 1337 School 👩🏻‍💻
 -  👩🏻‍🏫A Bachelor degree in Applied Mathematics
 - Ask me about C, C++, SQL, Js </br>

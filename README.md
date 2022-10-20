@@ -11,7 +11,7 @@
 <!--
 **zainabdnaya/zainabdnaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<!-- ## Here are some ideas to get you started:
+<!--## Here are some ideas to get you started:
  -->
 <!--   ![](https://komarev.com/ghpzvc/?username=zainabdnaya) -->
 - 🎯 I’m currently studying at 1337 School 👩🏻‍💻

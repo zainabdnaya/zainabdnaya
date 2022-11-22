@@ -24,6 +24,7 @@
 # Github Status 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainabdnaya&theme=highcontrast&hide_border=true">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="zdnaya Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zainabdnaya&theme=react-dark&hide_border=true" data-canonical-src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zainabdnaya&bg_color=000000&color=AEFEFF&line=B85252&point=AEFEFF&hide_border=true" style="max-width: 100%;"></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  
 
 

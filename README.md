@@ -14,6 +14,7 @@
 <!--## Here are some ideas to get you started:
  -->
 <!--   ![](https://komarev.com/ghpzvc/?username=zainabdnaya) -->
+- member of 01 technical and pedagogy  support team [Flying bocal squad]
 - 🎯 I’m currently studying at 1337 School 👩🏻‍💻
 -  👩🏻‍🏫A Bachelor degree in Applied Mathematics
 - Ask me about C, C++, SQL, Js </br>

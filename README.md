@@ -14,12 +14,12 @@
 <!--## Here are some ideas to get you started:
  -->
 <!--   ![](https://komarev.com/ghpzvc/?username=zainabdnaya) -->
-- member of 01 technical and pedagogy  support team [Flying bocal squad]
+- member of 01 technical support team [Flying bocal squad]
 - 🎯 I’m currently studying at 1337 School 👩🏻‍💻
 -  👩🏻‍🏫A Bachelor degree in Applied Mathematics
 - Ask me about C, C++, SQL, Js </br>
 - How to reach me: zainabdnaya@gmail.com</br>
-- Fun fact: coding is lifestyle.</br>
+- Fun fact: coding is lifestyle</br>
 
 # Github Status 
 

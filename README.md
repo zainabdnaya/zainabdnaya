@@ -14,7 +14,7 @@
 <!--## Here are some ideas to get you started:
  -->
 <!--   ![](https://komarev.com/ghpzvc/?username=zainabdnaya) -->
-- member of 01 technical support team [Flying bocal squad] local system admin
+- Member of 01 technical support team [Flying bocal squad] local system admin
 - 🎯 I’m currently studying at 1337 School 👩🏻‍💻
 -  👩🏻‍🏫A Bachelor degree in Applied Mathematics
 - Ask me about C, C++, SQL, Js, Python, GoLang </br>

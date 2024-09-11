@@ -1,4 +1,4 @@
-0### Hello, I'm Zainab Dnaya! 👋
+### Hello, I'm Zainab Dnaya! 👋
 
 I'm a **passionate developer** who thrives on **coding**, **problem-solving**, and **exploring new technologies**. Currently, I'm working as a **Senior Technical Support** at [01Edu](https://github.com/01-edu). 🌟
 

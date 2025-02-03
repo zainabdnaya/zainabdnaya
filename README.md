@@ -86,8 +86,8 @@ Feel free to connect with me and share your tech insights!
 
 <!-- Top Projects Section -->
 ### 🚀 Notable Projects:
-- [**Project Name 1**](https://github.com/zainabdnaya/WebServe) – Building http server in C++.
-- [**Project Name 2**](https://github.com/zainabdnaya/ft_transcendence) – creating a website for the mighty Pong contest.
+- [**WebServe**](https://github.com/zainabdnaya/WebServe) – Building http server in C++.
+- [**Pushswap*](https://github.com/zainabdnaya/pushswap) – creating fastest sorting algorithm.
 <!-- Add more projects -->
 
 <!-- Trophies or Awards -->
